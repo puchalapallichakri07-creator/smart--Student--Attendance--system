@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+attendance.db
+attendance.db-shm
+attendance.db-wal
+config/settings.json
+assets/qrcodes/
+reports/
